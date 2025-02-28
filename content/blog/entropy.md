@@ -1,6 +1,7 @@
 +++
 title = "Entropy Wins - Always"
 date = "2025-02-28T17:51:28+05:30"
+draft = false
 
 #
 # description is optional
