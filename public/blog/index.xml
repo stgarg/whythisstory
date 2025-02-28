@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Why this story</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Why this story</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Sumit Garg.</copyright>
+    <lastBuildDate>Fri, 28 Feb 2025 17:51:28 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entropy Wins - Always</title>
+      <link>//localhost:1313/entropy-wins-always/</link>
+      <pubDate>Fri, 28 Feb 2025 17:51:28 +0530</pubDate>
+      <guid>//localhost:1313/entropy-wins-always/</guid>
+      <description>&lt;p&gt;Imagine you have a neat stack of blocks. That’s low entropy because everything is in order. Now, if you knock the stack over and the blocks scatter everywhere, that’s high entropy because it’s all messy and random.&lt;/p&gt;&#xA;&lt;p&gt;In nature, things naturally move from being orderly to being messy unless you put energy into keeping them neat. For example:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;An ice cube starts as a solid with low entropy (all the water molecules are locked in place).&#xD;&#xA;When it melts into a puddle, it gets messier and spreads out—that’s higher entropy.&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;This happens because heat from the room makes the ice turn into water, and things like to spread out and mix up on their own. Entropy is why spilled milk doesn’t jump back into the glass—it’s the universe’s way of saying disorder is easier than order!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
